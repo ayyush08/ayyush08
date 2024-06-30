@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Hi  👋! I'm Ayush, a Full-Stack developer</div>  
   
 
@@ -17,6 +12,10 @@
   
 
 <br/>  
+
+<div align="center">
+<img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" align="center" style="width: 100%" />
+</div>  
 
 
 ## My Skill Set  
