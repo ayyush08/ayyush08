@@ -15,8 +15,14 @@
 
 <div align="center">
 <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" align="center" style="width: 100%" />
-</div>  
+</div>
 
+<br/>
+
+<div align="center">
+  <br/>
+ <img src="https://github-profile-trophy.vercel.app/?username=ayyush08&theme=darkhub&title=Followers,Commits,Repositories,Stars,Friends,Experience" align="center"/>
+<div/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
