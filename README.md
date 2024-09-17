@@ -106,7 +106,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ayyush08&show_icons=true&count_private=true&hide_border=true&theme=vision-friendly-dark&hide_border=true&border_radius=5" align="center" /> </div> 
 <br/>
 <br/>
-<div align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ayyush08&theme=vision-friendly-dark&hide_border=true&border_radius=5" alt="GitHub Streak" /></a> </div> 
+<div align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayyush08&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" /></a> </div> 
 <br/>
 
 <br/>  
