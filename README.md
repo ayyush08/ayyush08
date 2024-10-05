@@ -21,7 +21,7 @@
 
 <div align="center">
   <br/>
- <img src="https://github-profile-trophy.vercel.app/?username=ayyush08&theme=darkhub&title=Followers,Commits,Repositories,Stars,Friends,Experience" align="center"/>
+ <img src="https://github-profile-trophy.vercel.app/?username=ayyush08&theme=darkhub&title=Followers,Commits,Repositories,Stars,Friends,Experience,PullRequest" align="center"/>
 <div/>
 
 ## My Skill Set  
