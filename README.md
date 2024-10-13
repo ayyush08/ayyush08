@@ -76,6 +76,13 @@
 
 </td></tr></table>  
 
+<br/>
+
+# My Badges
+[![An image of @ayyush08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayyush08)](https://holopin.io/@ayyush08)
+
+
+
 <br/>  
 
 
