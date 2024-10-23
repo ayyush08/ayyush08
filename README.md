@@ -24,6 +24,13 @@
  <img src="https://github-profile-trophy.vercel.app/?username=ayyush08&theme=darkhub&title=Followers,Commits,Repositories,Friends,Experience,PullRequest,MultiLanguage" align="center"/>
 <div/>
 
+<br/>
+
+[![An image of @ayyush08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayyush08)](https://holopin.io/@ayyush08)
+
+<br/>
+
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -78,8 +85,7 @@
 
 <br/>
 
-# My Badges
-[![An image of @ayyush08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayyush08)](https://holopin.io/@ayyush08)
+
 
 
 
