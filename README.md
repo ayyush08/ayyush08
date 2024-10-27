@@ -1,4 +1,4 @@
-# <div align="center">Hi  👋! I'm Ayush, a Full-Stack developer</div>  
+# <div align="center">Hi  👋! I'm Ayush, a Full-Stack Developer</div>  
   
 
 <div align="center">🌱I’m currently learning DSA and Development
