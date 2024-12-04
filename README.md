@@ -126,7 +126,11 @@
 
 <br/>  
 
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315v2x74a3knbl7xnk55lsjkfh6i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=315v2x74a3knbl7xnk55lsjkfh6i&redirect=true)
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ayyush08&&style=flat-square" align="center" />
 </div>  
-  
+
+<br/>
