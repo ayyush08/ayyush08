@@ -75,6 +75,8 @@
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://coursera-university-assets.s3.amazonaws.com/05/353594a7964fdeaff4e10615de58c0/MongoDBSquareLogo.png" alt="MongoDB" height="70" /></a>   
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="70" /></a>   
 </div>
+<a href="https://zod.dev/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:1400/1*I2lgr0_K6d9DwQYi2MtjcQ.png" alt="Zod" height="70" /></a>   
+</div>
 
 </td><td valign="top" width="25%">
 
