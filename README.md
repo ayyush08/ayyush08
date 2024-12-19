@@ -1,14 +1,14 @@
 # <div align="center">Hi  👋! I'm Ayush, a Full-Stack Developer</div>  
   
 
-<div align="center">🌱I’m currently learning DSA and Development
+<div align="center">🌱I’m currently practising DSA and enhancing my web development knowledge and skills
 </div>  
   
 
 <div align="center">❓ Ask me about anything related to MERN stack and related technologies</div>  
   
 
-<div align="center">⚡ Fun fact: I have a cruel habit of formatting my code  </div>  
+<div align="center">⚡ Fun fact: You won't find someone with a music taste like me.</div>  
   
 
 <br/>  
