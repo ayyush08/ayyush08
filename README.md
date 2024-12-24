@@ -36,7 +36,7 @@
 
 
 
-### Programming Languages  
+### Languages  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="70" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="70" /></a> 
@@ -53,14 +53,12 @@
 
 
 ### Frontend  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="70" /></a>  
+<div align="center">   
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="70" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="70" /></a>  
 <a href="https://ui.shadcn.com/" targer="_blank"><img style="margin:10px" src="https://archive.org/download/github.com-shadcn-ui-ui_-_2023-08-09_16-03-10/cover.jpg" alt="ShadCn" height="70"/></a>
 <a href="https://ui.aceternity.com/" targer="_blank"><img style="margin:10px" src="https://ph-files.imgix.net/0e9ab899-883b-45fa-927a-1565d8af2e42.png?auto=format" alt="Acertenity" height="70"/></a>
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="70" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="70" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="70" /></a>  
   
 </div>
@@ -74,17 +72,17 @@
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://images.credly.com/images/1c2c86e1-16ce-4e4d-a425-d1ac96bb026d/twitter_thumb_201604_express.png" alt="Express.js" height="70" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://coursera-university-assets.s3.amazonaws.com/05/353594a7964fdeaff4e10615de58c0/MongoDBSquareLogo.png" alt="MongoDB" height="70" /></a>   
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="70" /></a>   
-</div>
-<a href="https://zod.dev/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:1400/1*I2lgr0_K6d9DwQYi2MtjcQ.png" alt="Zod" height="70" /></a>   
-</div>
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" height="70" /></a>
+<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://media2.dev.to/dynamic/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F1608%2F0f93b179-76bf-4ee7-a838-e8222fbef062.png" alt="Prisma ORM" height="70" />
+</a>
 
 </td><td valign="top" width="25%">
 
 
 
-### DevOps  
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="70" /></a>   
+### Others  
+<div align="center"> 
+<a href="https://zod.dev/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:1400/1*I2lgr0_K6d9DwQYi2MtjcQ.png" alt="Zod" height="70" /></a> 
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="70" /></a>  
 </div>
 
