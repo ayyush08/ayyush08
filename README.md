@@ -84,8 +84,8 @@
 ### Others  
 <div align="center"> 
 <a href="https://zod.dev/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:1400/1*I2lgr0_K6d9DwQYi2MtjcQ.png" alt="Zod" height="70" /></a> 
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="70" /></a>  
-</div>
+<!-- <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="70" /></a>  
+</div> -->
 
 </td></tr></table>  
 
