@@ -1,14 +1,13 @@
 # <div align="center">Hi  👋! I'm Ayush, a Full-Stack Developer</div>  
   
 
-<div align="center">🌱I’m currently practising DSA and enhancing my web development knowledge and skills
+<div align="center">🌱 I’m constantly learning and improving my skills in web development and backend technologies
 </div>  
-  
+<div align="center">🛠️ Passionate about building scalable applications and contributing to open-source</div>
 
-<div align="center">❓ Ask me about anything related to MERN stack and related technologies</div>  
+<div align="center">❓ Feel free to ask me anything about web development that you see on my profile!</div>
   
-
-<div align="center">⚡ Fun fact: You won't find someone with a music taste like me.</div>  
+<div align="center">⚡ Fun fact: My love for tech is only rivaled by my ever-growing playlist!</div>
   
 
 <br/>  
