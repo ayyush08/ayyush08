@@ -22,6 +22,10 @@
   
  <img src="https://github-profile-trophy.vercel.app/?username=ayyush08&theme=darkhub&title=Followers,Commits,Repositories,Friends,Experience,PullRequest,MultiLanguage" align="center"/>
 <div/>
+<a href="https://api.badgr.io/public/assertions/payK-sMDRH6L64iT4JYp2g?identity__email=ayushkumargupta2908%40gmail.com">
+  <img src="https://api.badgr.io/public/assertions/payK-sMDRH6L64iT4JYp2g/image" alt="Badgr Badge" width="200">
+</a>
+
 
 <br/>
 
