@@ -20,7 +20,7 @@
 
 <div align="center">
   
- <img src="https://github-profile-trophy.vercel.app/?username=ayyush08&theme=darkhub&title=Followers,Commits,Repositories,Friends,Experience,PullRequest,MultiLanguage" align="center"/>
+ <img src="https://github-profile-trophy.vercel.app/?username=ayyush08&theme=darkhub" align="center"/>
 <div/>
 <a href="https://api.badgr.io/public/assertions/payK-sMDRH6L64iT4JYp2g?identity__email=ayushkumargupta2908%40gmail.com">
   <img src="https://api.badgr.io/public/assertions/payK-sMDRH6L64iT4JYp2g/image" alt="Badgr Badge" width="200">
@@ -43,7 +43,7 @@
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="70" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="70" /></a> 
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="70" /></a> 
+<!-- <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="70" /></a>  -->
 <!-- <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="70" /></a>   -->
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="70" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="70" /></a>  
@@ -78,7 +78,7 @@
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="70" /></a>   
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" height="70" /></a>
 <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://media2.dev.to/dynamic/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F1608%2F0f93b179-76bf-4ee7-a838-e8222fbef062.png" alt="Prisma ORM" height="70" />
-  <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="70" /></a>  
+<!--   <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="70" /></a>   -->
 </a>
 
 </td>
