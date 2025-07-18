@@ -12,10 +12,15 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" align="center" style="width: 100%" />
-</div>
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fayyush085bbdb.png?alt=media)
 
+
+<!-- <div align="center">
+<img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" align="center" style="width: 100%" />
+</div> -->
+
+<br/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyush08&hide_border=true&layout=compact&theme=vision-friendly-dark" align="center" /></div>  
 <br/>
 
 <div align="center">
@@ -100,7 +105,7 @@
 
 <br/>  
 
-
+<!--
 ## Connect with me  
 <a href="https://github.com/ayyush08" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -119,16 +124,18 @@
 </a>  
   
 
-<br/>  
+<br/> 
+-->
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyush08&hide_border=true&layout=compact&theme=vision-friendly-dark" align="center" /></div>  
+ 
 <br/>
+<!--
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ayyush08&show_icons=true&count_private=true&hide_border=true&theme=vision-friendly-dark&hide_border=true&border_radius=5" align="center" /> </div> 
 <br/>
 <br/>
 <div align="center"><a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=ayyush08&theme=vision-friendly-dark&hide_border=true&border_radius=5" alt="GitHub Streak" /></a> </div> 
+-->
 <br/>
 
 <br/>  
