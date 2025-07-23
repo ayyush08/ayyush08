@@ -129,7 +129,7 @@
  
 <br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyush08&hide_border=true&layout=compact&theme=vision-friendly-dark" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyush08&hide_border=true&layout=compact&theme=vision-friendly-dark&langs_count=20" align="center" /></div>  
 <br/>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ayyush08&show_icons=true&count_private=true&hide_border=true&theme=vision-friendly-dark&hide_border=true&border_radius=5" align="center" /> </div> 
 <br/>
