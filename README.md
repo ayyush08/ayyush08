@@ -1,13 +1,34 @@
-# <div align="center">Hi  👋! I'm Ayush, a Full-Stack Developer</div>  
-  
 
-<div align="center">🌱 I’m constantly learning and improving my skills in web development and backend technologies
-</div>  
-<div align="center">🛠️ Passionate about building scalable applications and contributing to open-source</div>
+```typescript
+export const DevProfile = {
+  id: "ayyush08",
+  name: "Ayush Kumar Gupta",
+  role: "Full-Stack Developer 🚀",
+  skills: [
+    "⚡ JavaScript", 
+    "🌱 TypeScript",
+    "©️C++",
+    "🍃 MERN stack", 
+    "🧩 Next.js", 
+    "🛠 Prisma"
+  ],
+  currentlyLearning: [
+    "🦀 Rust ", 
+    "🔗 Solana ", 
+    "🧠 CP ", 
+    "📐 DSA"
+  ],
+  interests: ["Software Development", "Open Source", "Music 🎶","Gaming🎮","Anime📺"],
+  funFact: "I break things just to learn how to make them better ⚡"
+}
 
-<div align="center">❓ Feel free to ask me anything about web development that you see on my profile!</div>
-  
-<div align="center">⚡ Fun fact: My love for tech is only rivaled by my ever-growing playlist!</div>
+function fetchProfile() {
+  return DevProfile
+}
+
+console.table(fetchProfile())
+
+```
   
 
 <br/>  
