@@ -36,9 +36,9 @@ console.table(fetchProfile())
 
 
 
-<div align="center">
+<!--<div align="center">
 <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" align="center" style="width: 100%" />
-</div>
+</div>-->
 
 <br/>
 
@@ -58,7 +58,7 @@ console.table(fetchProfile())
 <br/>
 
 
-## My Skill Set  
+## Coding Arsenal
 <table><tr><td valign="top" width="25%">
 
 
