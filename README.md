@@ -12,11 +12,9 @@ export const DevProfile = {
     "🧩 Next.js", 
     "🛠 Prisma"
   ],
-  currentlyLearning: [
-    "🦀 Rust ", 
-    "🔗 Solana ", 
-    "🧠 CP ", 
-    "📐 DSA"
+  currently: [
+    "🔎 Trying out new things ",  
+    "📐 practicing DSA daily"
   ],
   interests: ["Software Development", "Open Source", "Music 🎶","Gaming🎮","Anime📺"],
   funFact: "I break things just to learn how to make them better ⚡"
