@@ -141,24 +141,20 @@ console.table(fetchProfile())
 </a>  
   
 
-<br/> 
-
-
-
- 
-<br/>
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyush08&hide_border=true&layout=compact&theme=vision-friendly-dark&langs_count=20" align="center" /></div>  
-<br/>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ayyush08&show_icons=true&count_private=true&hide_border=true&theme=vision-friendly-dark&hide_border=true&border_radius=5" align="center" /> </div> 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayyush08&bg_color=000000&color=d8d5d5&line=fb8500&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
 <br/>
-<div align="center"><a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=ayyush08&theme=vision-friendly-dark&hide_border=true&border_radius=5" alt="GitHub Streak" /></a> </div> 
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top:5px; flex-wrap: wrap;">
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyush08&hide_border=true&layout=compact&theme=vision-friendly-dark&langs_count=5" /> -->
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ayyush08&show_icons=true&count_private=true&hide_border=true&theme=vision-friendly-dark&border_radius=5" />
+  
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=ayyush08&theme=vision-friendly-dark&hide_border=true&border_radius=5" alt="GitHub Streak" />
+  </a>
+</div>
 <br/>
- 
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ayyush08&&style=flat-square" align="center" />
-</div>  
+## LeetCode Progress
 
-<br/>
+![LeetCode Stats](https://leetcard.jacoblin.cool/ayyush_08?theme=dark&font=Arimo)
