@@ -40,10 +40,10 @@ console.table(fetchProfile())
 
 <br/>
 
-<!-- <div align="center">
+<div align="center">
   
- <img src="https://github-profile-trophy.vercel.app/?username=ayyush08&theme=darkhub" align="center"/>
-<div/> -->
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=ayyush08&theme=darkhub" align="center"/> -->
+<div/>
 <a href="https://api.badgr.io/public/assertions/payK-sMDRH6L64iT4JYp2g?identity__email=ayushkumargupta2908%40gmail.com">
   <img src="https://api.badgr.io/public/assertions/payK-sMDRH6L64iT4JYp2g/image" alt="Badgr Badge" width="200">
 </a>
@@ -124,9 +124,6 @@ console.table(fetchProfile())
 
 
 ## Connect with me  
-<a href="https://github.com/ayyush08" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://twitter.com/Ayush29081" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -136,7 +133,7 @@ console.table(fetchProfile())
 <a href="https://linkedin.com/in/ayush2908" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/ayyush_24" target="_blank">
+<a href="https://instagram.com/ayyush.js" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
   
