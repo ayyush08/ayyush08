@@ -144,7 +144,7 @@ console.table(fetchProfile())
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top:5px; flex-wrap: wrap;">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyush08&hide_border=true&layout=compact&theme=vision-friendly-dark&langs_count=5" /> -->
   
-  <img src="https://github-readme-stats.vercel.app/api?username=ayyush08&show_icons=true&count_private=true&hide_border=true&theme=vision-friendly-dark&border_radius=5" />
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ayyush08?cardType=level&theme=vision-friendly-dark&fontFamily=&preferLogin=true&Border=DD6B21)](https://git.io/awesome-stats-card)
   
   <a href="https://git.io/streak-stats">
     <img src="https://nirzak-streak-stats.vercel.app?user=ayyush08&theme=vision-friendly-dark&hide_border=true&border_radius=5" alt="GitHub Streak" />
