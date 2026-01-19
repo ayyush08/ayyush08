@@ -141,15 +141,9 @@ console.table(fetchProfile())
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayyush08&bg_color=000000&color=d8d5d5&line=fb8500&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
 <br/>
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top:5px; flex-wrap: wrap;">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyush08&hide_border=true&layout=compact&theme=vision-friendly-dark&langs_count=5" /> -->
-  
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ayyush08?cardType=level&theme=vision-friendly-dark&fontFamily=&preferLogin=true&Border=DD6B21)](https://git.io/awesome-stats-card)
-  
-  <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=ayyush08&theme=vision-friendly-dark&hide_border=true&border_radius=5" alt="GitHub Streak" />
-  </a>
-</div>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ayyush08&show_icons=true&theme=vision-friendly-dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ayyush08&theme=vision-friendly-dark)
+
 <br/>
 
 ## LeetCode Progress
