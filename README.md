@@ -150,6 +150,8 @@ console.table(fetchProfile())
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ayyush_08?theme=dark&font=Merriweather%20Sans&ext=contest)
 
-
+<br/>
+<br/>
 
 ![My GitHub Game](game.gif)
+
