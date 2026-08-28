@@ -138,7 +138,7 @@ console.table(fetchProfile())
 </a>  
   
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayyush08&bg_color=000000&color=d8d5d5&line=fb8500&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayyush08&bg_color=000000&color=d8d5d5&line=fb8500&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
 <br/>
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ayyush08&show_icons=true&theme=vision-friendly-dark)
